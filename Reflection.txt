@@ -1,5 +1,11 @@
+#From Professor
 This is an example file for reflection in IBI1_2025-26.
 
 During this course, I have learnt version control, how to navigate Unix-like systems and how to write simple programs in Python.
 
 I am going to edit this file to show changes
+
+#From myself
+Hello, my name is James/ Huang Ziyue. I am studying IBI course.
+During week3, I was annoyed while being stuck in the process of cloning and uploading files to github because of the Internet problem.
+During week4, I was happy with my codes and I cooperated with my partners well.
