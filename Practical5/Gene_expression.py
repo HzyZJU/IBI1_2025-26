@@ -35,6 +35,9 @@ plt.xlabel("Genes")
 plt.ylabel("Expression Level")
 plt.title("Gene Expression Levels")
 
+# Only when I close the chart can the subsequent processes start; 
+# If the chart is not closed, the terminal will fail to display the step 4&5 output.
+print ('Please close the chart and let it continues running.')
 # Show the plot
 plt.show()
 
@@ -44,9 +47,9 @@ selected_gene = "TP53"   # <-- Change this value to test other genes
 
 # Check if the gene exists and print its expression value
 if selected_gene in gene_expression:
-    print(f"Expression level of {selected_gene}: {gene_expression[selected_gene]}")
+    print(f"\nExpression level of {selected_gene}: {gene_expression[selected_gene]}")
 else:
-    print(f"Error: {selected_gene} is not found in the dataset.")
+    print(f"\nError: {selected_gene} is not found in the dataset.")
 print()
 
 # Step 5: Calculate and print the average gene expression
