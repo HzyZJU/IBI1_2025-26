@@ -9,3 +9,6 @@ I am going to edit this file to show changes
 Hello, my name is James/ Huang Ziyue. I am studying IBI course.
 During week3, I was annoyed while being stuck in the process of cloning and uploading files to github because of the Internet problem.
 During week4, I was happy with my codes and I cooperated with my partners well.
+During week5, I knew how to make figures and graphs. I was looking forward to doing the same things in my IE and IBMS projects.
+During week6, I was happy to connect the remote server. However, When processed locally, the two files took 2 seconds and 25 seconds respectively. On the remote server, they took 14 seconds and 2 minutes 37 seconds. In comparison, the performance on the remote server was significantly slower.
+During week7, I was a little confused about the slids, because 'regex' is DIFFICULt. I spent long time on making my practical files.
