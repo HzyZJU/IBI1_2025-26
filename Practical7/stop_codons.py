@@ -1,6 +1,6 @@
 # Input and output file names 
 input_fa = '/Users/wuhanddmm/Desktop/shell_data/IBI1_2025-26/Practical7_desktop/Saccharomyces_cerevisiae.R64-1-1.cdna.all.fa'
-#  It doesn’t matter if you use the absolute or relative path - we can update this for our own computers so long as your code is accessing the same file supplied on Learn.
+# It doesn’t matter if you use the absolute or relative path - we can update this for our own computers so long as your code is accessing the same file supplied on Learn.
 output_fa = "stop_genes.fa"
 
 # Start and stop codons
