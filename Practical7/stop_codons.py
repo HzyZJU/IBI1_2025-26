@@ -22,7 +22,7 @@ def check_in_frame_stop(seq):
     return len(unique_stops) > 0, unique_stops
 
 
-total_genes = 0   # ✅ 新增：统计符合条件的基因数量
+total_genes = 0  
 
 with open(input_fa, "r") as f_in, open(output_fa, "w") as f_out:
     gene_header = ""
@@ -36,7 +36,7 @@ with open(input_fa, "r") as f_in, open(output_fa, "w") as f_out:
                 has_stop, stops = check_in_frame_stop(gene_seq)
 
                 if has_stop:
-                    total_genes += 1   # ✅ 计数
+                    total_genes += 1   # count
 
                     gene_name = gene_header.split()[0][1:]
                     stop_str = stops[0]
@@ -57,7 +57,7 @@ with open(input_fa, "r") as f_in, open(output_fa, "w") as f_out:
         has_stop, stops = check_in_frame_stop(gene_seq)
 
         if has_stop:
-            total_genes += 1   # ✅ 计数
+            total_genes += 1   # count
 
             gene_name = gene_header.split()[0][1:]
             stop_str = stops[0]
