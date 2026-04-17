@@ -7,7 +7,7 @@ beta = 0.3
 gamma = 0.05
 time_steps = 1000
 
-vaccination_percentages = range(10, 101, 10)
+vaccination_percentages = range(0, 101, 10)
 
 plt.figure(figsize=(6,4), dpi=150)
 
