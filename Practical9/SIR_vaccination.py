@@ -53,7 +53,7 @@ for v_percent in vaccination_percentages:
 
 plt.xlabel("Time")
 plt.ylabel("Infected")
-plt.title("SIR model with different vaccinnation rates")
+plt.title("SIR model with different vaccination rates")
 plt.legend()
 
 plt.show()
