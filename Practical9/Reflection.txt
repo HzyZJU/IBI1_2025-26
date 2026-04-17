@@ -1,1 +1,7 @@
+Reflection
 
+I found this practical interesting but also slightly challenging, especially when moving from the basic SIR model to the spatial version. Implementing the 2D grid and handling neighbour interactions required more careful thinking than expected, particularly with boundary conditions and ensuring updates were done synchronously.
+
+One specific point I reflected on was the choice of time steps for plotting. I asked for clarification during the tutorial and followed up by email. It was confirmed that both options were acceptable, but using `t in [0, 9, 49, 99]` is more consistent with Python’s zero-based indexing. This helped me better understand how implementation details can affect how results are interpreted, and the importance of clearly documenting such choices in pseudocode.
+
+Overall, this practical improved my understanding of stochastic and spatial modelling, and I found the visualisation of disease spread particularly engaging.
