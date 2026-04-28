@@ -2,7 +2,7 @@ Question:
 What was the distribution of DALYs across all countries in 2019?
 
 Line number:
-101-116
+101
 
 Discussion:
 The boxplot shows the global distribution of DALYs per 100,000 people in 2019. 
