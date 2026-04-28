@@ -1,1 +1,11 @@
+Question:
+What was the distribution of DALYs across all countries in 2019?
 
+Line number:
+101-116
+
+Discussion:
+The boxplot shows the global distribution of DALYs per 100,000 people in 2019. 
+There was a large global disparity in disease burden, with a very wide range between the minimum and maximum values. 
+Most countries have moderate DALYs levels, while a small number of countries have extremely high DALYs (outliers). 
+This reflects huge inequalities in global health, with some nations facing far greater disease burden than others.
