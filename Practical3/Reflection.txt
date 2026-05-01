@@ -1,3 +1,4 @@
-I was confused about the commit -m at first, but I am used to use GitHubu as a tool now.
+I was confused about the commit -m at first, but I am used to use GitHub as a tool now.
 I want to put my own works into my files.
 Overall, I am happy about my job!
+I have double checked my work. It's fine
