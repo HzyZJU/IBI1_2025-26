@@ -30,12 +30,12 @@ def calculate_daily_totals(food_list):
     if total_calories > 2500:
         print(f"Warning: Calorie intake ({total_calories:.1f} kcal) exceeds 2500 kcal ")
     else: 
-        print(f"Your calorie intake are within healthy limits.")
+        print(f"Your calorie intake is within healthy limits.")
 
     if total_fat > 90:
         print(f"Warning: Fat intake ({total_fat:.1f} g) exceeds 90 g")
     else:
-        print("Your fat intake are within healthy limits.")
+        print("Your fat intake is within healthy limits.")
         
     return {
         "calories": total_calories,
