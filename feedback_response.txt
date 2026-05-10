@@ -1,5 +1,5 @@
 Hi,
 I edited Week 3 projects. Specifically, I added my own feelings in the Introductions.txt and thingsIlike.txt. 
 Besides, I put the Reflection.txt in the Practical3 folder. (The other one is my overall feedback).
-The commit messages are informative.
+I have made sure that the commit messages are informative.
 I got 100 of Week 4 and 5, therefore I didn't make any changes.
